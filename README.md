@@ -35,12 +35,10 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="nithinhacks's GitHub Stats" src="https://github-readme-stats-7pw4lrfnu-nithinhacks.vercel.app/api?username=nithinhacks&show_icons=true&hide_border=true" />
 
-</details>
 
 [twitter]: https://twitter.com/nithin_exe
 [instagram]: https://www.instagram.com/nithin.exe
