@@ -32,16 +32,7 @@
 <br />
 <br />
 
----
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://techclone1.blogspot.com)
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 ---
 
 <details>
