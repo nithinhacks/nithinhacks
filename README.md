@@ -1,4 +1,4 @@
-### Hi there, I'm Nithin 👋
+### Hi there, I'm Nithin https://raw.githubusercontent.com/AsishRaju/AsishRaju/master/gifs/hi.gif
 
 ## I'm a Student, Developer, and Gamer!!
 
