@@ -36,14 +36,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="nithinhacks's GitHub Stats" src="https://github-readme-stats-7pw4lrfnu-nithinhacks.vercel.app/api?username=nithinhacks&show_icons=true&hide_border=true" />
