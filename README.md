@@ -40,7 +40,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="nithinhacks's GitHub Stats" src="https://github-readme-stats-7pw4lrfnu-nithinhacks.vercel.app/api?username=nithinhacks&show_icons=true&hide_border=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithinhacks&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="nithinhacks" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithinhacks&show_icons=true&locale=en&layout=compact_color=ccc&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="nithinhacks" />
 
 [twitter]: https://twitter.com/nithin_exe
 [instagram]: https://www.instagram.com/nithin.exe
