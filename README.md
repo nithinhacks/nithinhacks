@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/)
 - ⚡ Fun fact: I love to play video games
 
