@@ -1,4 +1,4 @@
-### Hi there, I'm Nithin <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/AsishRaju/AsishRaju/master/gifs/hi.gif" />
+### Hi there, I'm Nithin <img align="left" alt="" height="22px"  src="https://raw.githubusercontent.com/AsishRaju/AsishRaju/master/gifs/hi.gif" />
 
 ## I'm a Student, Developer, and Gamer!!
 
